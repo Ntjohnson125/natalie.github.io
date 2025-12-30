@@ -2,6 +2,7 @@
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+  logo: logo_trial.png
 
 
 site_name: Natalie Johnson Website
