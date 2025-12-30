@@ -1,3 +1,6 @@
+layout: page
+title: About Me
+
 # Personal Website
 
 ## About me
