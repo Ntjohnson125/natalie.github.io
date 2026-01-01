@@ -9,6 +9,6 @@ logo: /assets/images/logo.png
 site_name: Natalie Johnson Website
 title: Natalie's Website
 description: A website to see if I can work github pages
-nav:
+navigation:
 - Home: index.md
-- Figure: figure.md
+- Figure: pages/figure.md
