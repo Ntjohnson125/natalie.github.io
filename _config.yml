@@ -2,10 +2,12 @@
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
-  logo: /assets/images/logo.png
+
+logo: /assets/images/logo.png
 
 
 site_name: Natalie Johnson Website
-
+title: Website
+description: Website test 
 nav:
 - Home: index.md
