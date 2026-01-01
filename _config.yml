@@ -11,3 +11,4 @@ title: Website
 description: Website test 
 nav:
 - Home: /pages/index.md
+- Figure: /pages/figure.md
