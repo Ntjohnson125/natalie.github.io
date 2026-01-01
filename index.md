@@ -1,5 +1,6 @@
-layout: page
-title: About Me
+---
+layout: default
+---
 
 # Personal Website
 
