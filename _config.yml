@@ -10,5 +10,5 @@ site_name: Natalie Johnson Website
 title: Website
 description: Website test 
 nav:
-- Home: pages/index.md
-- Figure: pages/figure.md
+- Home: index.md
+- Figure: figure.md
