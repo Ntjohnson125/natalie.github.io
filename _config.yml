@@ -10,4 +10,4 @@ site_name: Natalie Johnson Website
 title: Website
 description: Website test 
 nav:
-- Home: index.md
+- Home: /pages/index.md
