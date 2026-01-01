@@ -1,6 +1,7 @@
 ---
-layout:default
+layout: default
 title: figure skating
+permalink: /figure/
 ---
 
 # Figure Skating
