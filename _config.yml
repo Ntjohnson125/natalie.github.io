@@ -5,7 +5,8 @@ github:
 
 logo: /assets/images/logo.png
 
-
+include:
+  - _pages
 site_name: Natalie Johnson Website
 title: Natalie's Website
 description: A website to see if I can work github pages
